@@ -1,0 +1,7 @@
+linea de comando usado:
+
+creamos la rama hot fix.
+
+LICELIA@DESKTOP-QP820CK MINGW64 /e/Repositorios/modcinco/lrojasclaros (master)
+$ git checkout -b hotfix
+Switched to a new branch 'hotfix'
